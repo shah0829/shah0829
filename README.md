@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shah0829
 - 👀 I’m interested in anything that is fun and exiting in science.
 - 🌱 I’m currently learning git use and Deep Lerning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making computation easy for others.
 - 📫 shahnawaz.ali@kcl.ac.uk
 
 <!---
