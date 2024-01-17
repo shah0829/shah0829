@@ -2,9 +2,9 @@
 
     👋 I’m Shahnawaz
     👀 I’m interested in anything that is fun and exiting in science.
-    🌱 I’m currently learning git use and Deep Lerning
+    🌱 I’m currently learning git use and Deep Learning
     💞️ I’m looking to collaborate on making computation easy for others.
-    📫 shahnawaz.ali@kcl.ac.uk
+    📫 s.ali@crukscotlandinstitute.ac.uk
 
 
 ### ⚙️ &nbsp;GitHub Analytics
